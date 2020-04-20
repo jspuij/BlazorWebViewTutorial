@@ -39,7 +39,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetJsonAsync<WeatherForecast[]>("_content/BlazorWebViewTutorial.Shared/sample-data/weather.json");
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("_content/BlazorWebViewTutorial.Shared/sample-data/weather.json");
     }
 
     public class WeatherForecast
