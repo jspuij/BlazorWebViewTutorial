@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebViewTutorial.Clien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebViewTutorial.Shared", "BlazorWebViewTutorial.Shared\BlazorWebViewTutorial.Shared.csproj", "{B73B160D-CC95-4E11-A01D-9AFB9AF4BFBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebViewTutorial.MacApp", "BlazorWebViewTutorial.MacApp\BlazorWebViewTutorial.MacApp.csproj", "{90476978-5033-4C2A-A723-230BA50ECA52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B73B160D-CC95-4E11-A01D-9AFB9AF4BFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73B160D-CC95-4E11-A01D-9AFB9AF4BFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73B160D-CC95-4E11-A01D-9AFB9AF4BFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90476978-5033-4C2A-A723-230BA50ECA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90476978-5033-4C2A-A723-230BA50ECA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90476978-5033-4C2A-A723-230BA50ECA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90476978-5033-4C2A-A723-230BA50ECA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
