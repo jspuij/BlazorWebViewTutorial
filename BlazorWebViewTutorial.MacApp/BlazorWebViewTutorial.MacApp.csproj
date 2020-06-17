@@ -173,10 +173,10 @@
       <HintPath>..\packages\Microsoft.AspNetCore.Components.Web.3.1.3\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll</HintPath>
     </Reference>
     <Reference Include="BlazorWebView">
-      <HintPath>..\packages\BlazorWebView.0.2.0-preview5\lib\netstandard2.1\BlazorWebView.dll</HintPath>
+      <HintPath>..\packages\BlazorWebView.0.2.0\lib\netstandard2.1\BlazorWebView.dll</HintPath>
     </Reference>
     <Reference Include="BlazorWebView.Mac">
-      <HintPath>..\packages\BlazorWebView.Mac.0.2.0-preview5\lib\xamarinmac20\BlazorWebView.Mac.dll</HintPath>
+      <HintPath>..\packages\BlazorWebView.Mac.0.2.0\lib\xamarinmac20\BlazorWebView.Mac.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing.Common.dll" />
   </ItemGroup>
